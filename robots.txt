@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://otseu.github.io/Gxy/sitemap.Gxy.gz
